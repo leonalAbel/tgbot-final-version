@@ -5,15 +5,15 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "d0def2fadec58c31403bf01a71454019"
-        API_ID = 2876934
-        BOT_TOKEN = "1516701846:AAFkv49CM7RToxxInvAWJDGK90DPO5RAAOo"
+        API_HASH = "d522013bbca2d46e256145b13f967aee"
+        API_ID = 1517192
+        BOT_TOKEN = "1662323956:AAEij3cLkUsxMiLrnnnSlLxK_Ngz4rWX9UE"
         BASE_URL_OF_BOT = "https://nobitest005.herokuapp.com"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [1458912827,1467018377,1546675358,1444150889,1482853408,1333689035,935041758,885488992,-100374414317,-1001479070385,-100320640070,-1001422326809,-1001267728460]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://index.blacktor.workers.dev/0:/"
+        GD_INDEX_URL = "https://001.tortoolkitpro.workers.dev/0:/"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -31,7 +31,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "postgres://iuzrmttujpmprj:a5e4544226f9c2c215cc7e088343b8828920e20c9d70f3e1d5b043b26f748265@ec2-50-16-108-254.compute-1.amazonaws.com:5432/ddjad561tteob2"
+        DB_URI = "postgres://ypuzxnuujbmlre:49a80215f59b1f7df7a2529febafb127639031b200706bc02f47903ecc918570@ec2-100-25-231-126.compute-1.amazonaws.com:5432/d5djj941uk6hch"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
