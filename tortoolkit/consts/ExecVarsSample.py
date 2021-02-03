@@ -7,13 +7,13 @@ except:
         IS_VPS = False
         API_HASH = "d522013bbca2d46e256145b13f967aee"
         API_ID = 1517192
-        BOT_TOKEN = "1662323956:AAEij3cLkUsxMiLrnnnSlLxK_Ngz4rWX9UE"
+        BOT_TOKEN = "1566020755:AAGWr5tlzm0-x9LzlKciCO3eqU6RQT5Jw8E"
         BASE_URL_OF_BOT = "https://nobitest005.herokuapp.com"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1458912827,1467018377,1546675358,1444150889,1482853408,1333689035,935041758,885488992,-100374414317,-1001479070385,-100320640070,-1001422326809,-1001267728460]
+        ALD_USR = [1458912827,1467018377,1546675358,1444150889,1482853408,1333689035,935041758,-100374414317,-1001479070385,-100320640070,-1001422326809,-1001267728460]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://001.tortoolkitpro.workers.dev/0:/"
+        GD_INDEX_URL = "https://002.tortoolkitpro.workers.dev/0:/"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -31,7 +31,7 @@ except:
         REMAINING_STR = "▱"
 
         # DB URI for access
-        DB_URI = "postgres://ypuzxnuujbmlre:49a80215f59b1f7df7a2529febafb127639031b200706bc02f47903ecc918570@ec2-100-25-231-126.compute-1.amazonaws.com:5432/d5djj941uk6hch"
+        DB_URI = "postgres://itekscbrgokgkm:6192dcf8e4b91555a1e5eb8439ece16a0b0a415b078a2ee5975b9ef1c770a754@ec2-52-200-111-186.compute-1.amazonaws.com:5432/d3603s1vv6lm06"
         
         # UNCOMMENT THE BELOW LINE WHEN USING CONTAINER AND COMMENT THE UPPER LINE
         #DB_URI = "dbname=tortk user=postgres password=your-pass host=db port=5432"
