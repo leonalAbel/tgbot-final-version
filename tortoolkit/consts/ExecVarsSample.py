@@ -5,15 +5,15 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "d522013bbca2d46e256145b13f967aee"
-        API_ID = 1517192
-        BOT_TOKEN = "1723766339:AAEl1xgH0FD4v9_lNHTo_pn8v2tm2Ihqh7U"
-        BASE_URL_OF_BOT = "https://kakaniu42c4.herokuapp.com"
+        API_HASH = "8d0efea948d873ddf3ee310ce53adeb4"
+        API_ID = 2647252
+        BOT_TOKEN = "1723766339:AAFGABg80-_JI35VFZFVLMmE3gAvk3Mnrc0"
+        BASE_URL_OF_BOT = ""
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = [-1001275063440,637064075,1053068377]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://ant.leoab.workers.dev/0:/"
+        GD_INDEX_URL = ""
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
