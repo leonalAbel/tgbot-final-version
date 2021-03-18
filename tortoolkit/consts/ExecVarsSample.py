@@ -7,19 +7,19 @@ except:
         IS_VPS = False
         API_HASH = "d522013bbca2d46e256145b13f967aee"
         API_ID = 1517192
-        BOT_TOKEN = "1699779453:AAGLJwAinHo1KgO0Uyeuyf93Vx7vIc80qxs"
-        BASE_URL_OF_BOT = "https://nobitest005.herokuapp.com"
+        BOT_TOKEN = "1723766339:AAEl1xgH0FD4v9_lNHTo_pn8v2tm2Ihqh7U"
+        BASE_URL_OF_BOT = "https://kakaniu42c4.herokuapp.com"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1458912827,1467018377,1546675358,1444150889,1482853408,1333689035,935041758,992574970,-100374414317,-1001479070385,-100320640070,-1001422326809,-1001267728460]
+        ALD_USR = [-1001275063440,637064075,1053068377]
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = "https://005.tortoolkitpro.workers.dev/0:/"
+        GD_INDEX_URL = "https://ant.leoab.workers.dev/0:/"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
 
         # Telegram Upload Limit (in bytes)
-        TG_UP_LIMIT = 1700000000
+        TG_UP_LIMIT = 1800000000
 
         # Should force evething uploaded into Document
         FORCE_DOCUMENTS = False
@@ -75,8 +75,5 @@ except:
         FAST_UPLOAD = True
         METAINFO_BOT = False
         
-
-
-
 
 
